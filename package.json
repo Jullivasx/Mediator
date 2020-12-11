@@ -1,0 +1,22 @@
+{
+  "name": "mediator",
+  "version": "1.0.0",
+  "description": "Медиатор",
+  "main": "Mediator.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jullivasx/Mediator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jullivasx/Mediator/issues"
+  },
+  "homepage": "https://github.com/Jullivasx/Mediator#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
